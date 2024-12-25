@@ -24,7 +24,5 @@ El desarrollo permitió implementar y reforzar:
 
 # Capturas de Pantalla
 ![menu-screenshot](https://github.com/user-attachments/assets/0cb2bdcf-d0eb-4813-85d7-5264f99116d9)
-
 ![level1-screenshot](https://github.com/user-attachments/assets/8d583140-53da-419b-a708-effa579e6d1f)
-
 ![finalboss-screenshot](https://github.com/user-attachments/assets/386d310d-891c-4d2b-8ed4-a89b801bb1e1)
